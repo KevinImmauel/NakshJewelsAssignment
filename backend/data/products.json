@@ -1,0 +1,130 @@
+{
+  "products": [
+    {
+      "id": 0,
+      "name": "1.25Ct Brilliant Round Halo Ring",
+      "price": "56534",
+      "imageUrl": "https://geer.in/cdn/shop/files/GJLR-089_W1.jpg?v=1750331630"
+    },
+    {
+      "id": 1,
+      "name": "2Ct Princess Cut Solitaire Ring",
+      "price": "74210",
+      "imageUrl": "https://geer.in/cdn/shop/files/GJLR-045_W1.jpg?v=1750331630"
+    },
+    {
+      "id": 2,
+      "name": "0.75Ct Cushion Cut Diamond Ring",
+      "price": "45890",
+      "imageUrl": "https://geer.in/cdn/shop/files/GJLR-169_R1.jpg?v=1750399781"
+    },
+    {
+      "id": 3,
+      "name": "1.5Ct Oval Halo Engagement Ring",
+      "price": "68250",
+      "imageUrl": "https://geer.in/cdn/shop/files/GJLR-102_W1.jpg?v=1750331630"
+    },
+    {
+      "id": 4,
+      "name": "1Ct Emerald Cut Vintage Ring",
+      "price": "60500",
+      "imageUrl": "https://geer.in/cdn/shop/files/GJER-104_R1.jpg?v=1750406042"
+    },
+    {
+      "id": 5,
+      "name": "1.8Ct Marquise Diamond Ring",
+      "price": "71000",
+      "imageUrl": "https://geer.in/cdn/shop/files/GJLR-101_W1.jpg?v=1750331630"
+    },
+    {
+      "id": 6,
+      "name": "2.5Ct Radiant Cut Halo Ring",
+      "price": "89999",
+      "imageUrl": "https://geer.in/cdn/shop/files/GJLR-205_R1.jpg?v=1750332769"
+    },
+    {
+      "id": 7,
+      "name": "1Ct Pear Shape Solitaire Ring",
+      "price": "62800",
+      "imageUrl": "https://geer.in/cdn/shop/files/GJLR-216_R1.jpg?v=1750333007"
+    },
+    {
+      "id": 8,
+      "name": "0.5Ct Round Bezel Set Ring",
+      "price": "38750",
+      "imageUrl": "https://geer.in/cdn/shop/files/GJLR-055_W1.jpg?v=1750331630"
+    },
+    {
+      "id": 9,
+      "name": "1.2Ct Asscher Cut Art Deco Ring",
+      "price": "63900",
+      "imageUrl": "https://geer.in/cdn/shop/files/GJLR-064_W1.jpg?v=1750331630"
+    },
+    {
+      "id": 10,
+      "name": "3Ct Cushion Cut Luxury Ring",
+      "price": "120000",
+      "imageUrl": "https://geer.in/cdn/shop/files/GJLR-224_R1.jpg?v=1750333437"
+    },
+    {
+      "id": 11,
+      "name": "1.6Ct Round Three-Stone Ring",
+      "price": "75500",
+      "imageUrl": "https://geer.in/cdn/shop/files/GJLR-209_R1_25fde876-e066-4757-9ff8-7e1529865737.jpg?v=1750335782"
+    },
+    {
+      "id": 12,
+      "name": "0.9Ct Heart Shaped Diamond Ring",
+      "price": "49990",
+      "imageUrl": "https://geer.in/cdn/shop/files/GJLR-061_W1.jpg?v=1750331630"
+    },
+    {
+      "id": 13,
+      "name": "2Ct Oval Vintage Inspired Ring",
+      "price": "87000",
+      "imageUrl": "https://geer.in/cdn/shop/files/GJLR-084_W1.jpg?v=1750331630"
+    },
+    {
+      "id": 14,
+      "name": "1.3Ct Princess Channel Set Ring",
+      "price": "67820",
+      "imageUrl": "https://geer.in/cdn/shop/files/GJLR-184_R1.jpg?v=1750392944"
+    },
+    {
+      "id": 15,
+      "name": "1Ct Round Twist Shank Ring",
+      "price": "59000",
+      "imageUrl": "https://geer.in/cdn/shop/files/GJLR-095_W1.jpg?v=1750331630"
+    },
+    {
+      "id": 16,
+      "name": "2Ct Cushion Halo Split Shank Ring",
+      "price": "90500",
+      "imageUrl": "https://geer.in/cdn/shop/files/GJLR-202_W1.jpg?v=1750333081"
+    },
+    {
+      "id": 17,
+      "name": "0.6Ct Emerald Cut Solitaire Ring",
+      "price": "43000",
+      "imageUrl": "https://geer.in/cdn/shop/files/GJLR-060_W1.jpg?v=1750331630"
+    },
+    {
+      "id": 18,
+      "name": "1.75Ct Pear Halo Pavé Ring",
+      "price": "78800",
+      "imageUrl": "https://geer.in/cdn/shop/files/GJLR-090_W1.jpg?v=1750331630"
+    },
+    {
+      "id": 19,
+      "name": "2Ct Round Halo Cathedral Ring",
+      "price": "85000",
+      "imageUrl": "https://geer.in/cdn/shop/files/GJLR-161_R1.jpg?v=1750393174"
+    },
+    {
+      "id": 20,
+      "name": "1.1Ct Marquise Vintage Filigree Ring",
+      "price": "64500",
+      "imageUrl": "https://geer.in/cdn/shop/files/GJLR-064_W1.jpg?v=1750331630"
+    }
+  ]
+}
